@@ -1,7 +1,30 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mieluoxxx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mieluoxxx&repo=Learn-Coding)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mieluoxxx&repo=DeepLearning)](https://github.com/anuraghazra/github-readme-stats)
+## Hello GitHub Fans 👋
+[![Mail Badge](https://img.shields.io/badge/-weiyiding0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:weiyiding0@gmail.com)](mailto:weiyiding0@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mieluoxxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### 主页访问人数统计
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
+<img align="right" img src="https://raw.githubusercontent.com/Mieluoxxx/Mieluoxxx/main/pic/fire.jpeg" style="float: right; width: 50%;"/>
+
+### I'm moguw
+
+- 🖥 A Computer Science and Technology Undergraduate Student. & Artificial lovers.
+- 🌱 Currently studing in Nanjing, China.
+- ⚡ Fun fact: **Deep-Learning** && **Affective calculation**📊
+
+### 🛠 技术栈 | Tech Stack
+
+- 💻 &#160; ![深度学习](https://img.shields.io/badge/-深度学习-333333?style=flat&logo=深度学习&logoColor=007396)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+
+- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Mieluoxxx&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mieluoxxx&layout=compact&theme=tokyonight)
