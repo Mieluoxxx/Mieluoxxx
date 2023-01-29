@@ -6,7 +6,7 @@
 #### 主页访问人数统计
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
-<img align="right" img src="https://raw.githubusercontent.com/Mieluoxxx/Mieluoxxx/main/pic/fire.jpeg" style="float: right; width: 30%;"/>
+<img align="right" img src="https://raw.githubusercontent.com/Mieluoxxx/Mieluoxxx/main/pic/fire.jpeg" style="float: right; width: 25%;"/>
 
 ### I'm moguw
 
