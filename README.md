@@ -8,7 +8,7 @@
 ![](https://count.getloli.com/get/@Mieluoxxx.github.readme)
 
 <img align="right" img src="https://raw.githubusercontent.com/Mieluoxxx/Mieluoxxx/main/pic/fire.jpeg" style="float: right; width: 25%;"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+moguw;I'm+trying+to+be+a+part+of+Datawhale)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+moguw;I'm+trying+to+be+a+part+of+Datawhale)](https://git.io/typing-svg)
 
 ### I'm moguw
 
