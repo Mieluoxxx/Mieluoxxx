@@ -5,6 +5,7 @@
 
 #### 主页访问人数统计
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![](https://count.getloli.com/get/@Mieluoxxx.github.readme)
 
 <img align="right" img src="https://raw.githubusercontent.com/Mieluoxxx/Mieluoxxx/main/pic/fire.jpeg" style="float: right; width: 25%;"/>
 
