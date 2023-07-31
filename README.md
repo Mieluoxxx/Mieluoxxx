@@ -1,15 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+moguw;I'm+trying+to+be+a+part+of+Datawhale)](https://git.io/typing-svg)
 
-
-## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-weiyiding0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:weiyiding0@gmail.com)](mailto:weiyiding0@gmail.com)
 
 #### 主页访问人数统计
 
 ![](https://count.getloli.com/get/@Mieluoxxx.github.readme)
-
-<img align="right" img src="https://raw.githubusercontent.com/Mieluoxxx/Mieluoxxx/main/pic/fire.jpeg" style="float: right; width: 25%;"/>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+moguw;I'm+trying+to+be+a+part+of+Datawhale)](https://git.io/typing-svg)
-
 ### I'm moguw
 
 - 🖥 A Computer Science and Technology Undergraduate Student. & Artificial lovers.
