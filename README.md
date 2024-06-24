@@ -9,7 +9,7 @@
 
 - 🖥 A Computer Science and Technology Undergraduate Student. & Artificial lovers.
 - 🌱 Currently studing in Nanjing, China.
-- ⚡ Fun fact: **Deep-Learning** && **Affective calculation**📊
+- ⚡ Fun fact: **AI-Compilers** && **Deep-Learning**📊
 
 ### 🛠 技术栈 | Tech Stack
 
