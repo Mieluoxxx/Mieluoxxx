@@ -7,7 +7,7 @@
 ![](https://count.getloli.com/get/@Mieluoxxx.github.readme)
 ### I'm moguw
 
-- 🖥 A Computer Science and Technology Undergraduate Student. & Artificial lovers.
+- 🖥 A Computer Science and Technology Undergraduate Student.
 - 🌱 Currently studing in Nanjing, China.
 - ⚡ Fun fact: **AI-Compilers** && **Deep-Learning**📊
 
