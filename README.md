@@ -5,11 +5,6 @@
 #### 主页访问人数统计
 
 ![](https://count.getloli.com/get/@Mieluoxxx.github.readme)
-### I'm moguw
-
-- 🖥 A Computer Science and Technology Undergraduate Student.
-- 🌱 Currently studing in Nanjing, China.
-- ⚡ Fun fact: **AI-Compilers** && **Deep-Learning**📊
 
 ### 🛠 技术栈 | Tech Stack
 
